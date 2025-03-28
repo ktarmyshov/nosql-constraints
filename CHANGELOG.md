@@ -1,5 +1,13 @@
 # nosql-constraints
 
+## 0.0.8
+
+### Patch Changes
+
+- 7dcaa99: dependabot: bump @types/node from 22.13.13 to 22.13.14 in the all group
+- 7dcaa99: dependabot: bump @types/node from 22.13.13 to 22.13.14 in the all group
+- 7dcaa99: dependabot: bump @types/node from 22.13.13 to 22.13.14 in the all group
+
 ## 0.0.7
 
 ### Patch Changes
